@@ -1,0 +1,12 @@
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\bin\Debug\ex52pg316.exe.config
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\bin\Debug\ex52pg316.exe
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\bin\Debug\ex52pg316.pdb
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\bin\Debug\ex52pg316.xml
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\obj\Debug\ex52pg316.vbprojAssemblyReference.cache
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\obj\Debug\ex52pg316.Form1.resources
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\obj\Debug\ex52pg316.Resources.resources
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\obj\Debug\ex52pg316.vbproj.GenerateResource.cache
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\obj\Debug\ex52pg316.vbproj.CoreCompileInputs.cache
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\obj\Debug\ex52pg316.exe
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\obj\Debug\ex52pg316.xml
+C:\Users\anayeli\Documents\VisualBasic2017\ex52pg316\ex52pg316\obj\Debug\ex52pg316.pdb
