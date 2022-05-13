@@ -1,0 +1,12 @@
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\bin\Debug\errorDetection.exe.config
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\bin\Debug\errorDetection.exe
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\bin\Debug\errorDetection.pdb
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\bin\Debug\errorDetection.xml
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\obj\Debug\errorDetection.vbprojAssemblyReference.cache
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\obj\Debug\errorDetection.Form1.resources
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\obj\Debug\errorDetection.Resources.resources
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\obj\Debug\errorDetection.vbproj.GenerateResource.cache
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\obj\Debug\errorDetection.vbproj.CoreCompileInputs.cache
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\obj\Debug\errorDetection.exe
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\obj\Debug\errorDetection.xml
+C:\Users\anayeli\Documents\VisualBasic2017\errorDetection\errorDetection\obj\Debug\errorDetection.pdb
