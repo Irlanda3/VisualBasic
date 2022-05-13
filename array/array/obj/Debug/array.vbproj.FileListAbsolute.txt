@@ -1,0 +1,12 @@
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\bin\Debug\array.exe.config
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\bin\Debug\array.exe
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\bin\Debug\array.pdb
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\bin\Debug\array.xml
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\obj\Debug\array.vbprojAssemblyReference.cache
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\obj\Debug\array.Form1.resources
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\obj\Debug\array.Resources.resources
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\obj\Debug\array.vbproj.GenerateResource.cache
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\obj\Debug\array.vbproj.CoreCompileInputs.cache
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\obj\Debug\array.exe
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\obj\Debug\array.xml
+C:\Users\anayeli\Documents\VisualBasic2017\array\array\obj\Debug\array.pdb

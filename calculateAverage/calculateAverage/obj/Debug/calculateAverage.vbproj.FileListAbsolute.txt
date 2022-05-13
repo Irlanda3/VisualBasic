@@ -1,0 +1,12 @@
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\bin\Debug\calculateAverage.exe.config
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\bin\Debug\calculateAverage.exe
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\bin\Debug\calculateAverage.pdb
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\bin\Debug\calculateAverage.xml
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\obj\Debug\calculateAverage.vbprojAssemblyReference.cache
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\obj\Debug\calculateAverage.Form1.resources
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\obj\Debug\calculateAverage.Resources.resources
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\obj\Debug\calculateAverage.vbproj.GenerateResource.cache
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\obj\Debug\calculateAverage.vbproj.CoreCompileInputs.cache
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\obj\Debug\calculateAverage.exe
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\obj\Debug\calculateAverage.xml
+C:\Users\anayeli\Documents\VisualBasic2017\calculateAverage\calculateAverage\obj\Debug\calculateAverage.pdb
