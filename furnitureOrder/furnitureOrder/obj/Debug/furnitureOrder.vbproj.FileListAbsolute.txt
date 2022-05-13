@@ -1,0 +1,13 @@
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\bin\Debug\furnitureOrder.exe.config
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\bin\Debug\furnitureOrder.exe
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\bin\Debug\furnitureOrder.pdb
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\bin\Debug\furnitureOrder.xml
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\obj\Debug\furnitureOrder.vbprojAssemblyReference.cache
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\obj\Debug\furnitureOrder.Form1.resources
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\obj\Debug\furnitureOrder.Resources.resources
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\obj\Debug\furnitureOrder.vbproj.GenerateResource.cache
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\obj\Debug\furnitureOrder.vbproj.CoreCompileInputs.cache
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\obj\Debug\furnitureOrder.exe
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\obj\Debug\furnitureOrder.xml
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\obj\Debug\furnitureOrder.pdb
+C:\Users\anayeli\Documents\VisualBasic2017\furnitureOrder\furnitureOrder\obj\Debug\furnitureOrder.Form2.resources
