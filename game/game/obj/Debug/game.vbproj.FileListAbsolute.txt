@@ -1,0 +1,12 @@
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\bin\Debug\game.exe.config
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\bin\Debug\game.exe
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\bin\Debug\game.pdb
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\bin\Debug\game.xml
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\obj\Debug\game.vbprojAssemblyReference.cache
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\obj\Debug\game.Form1.resources
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\obj\Debug\game.Resources.resources
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\obj\Debug\game.vbproj.GenerateResource.cache
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\obj\Debug\game.vbproj.CoreCompileInputs.cache
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\obj\Debug\game.exe
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\obj\Debug\game.xml
+C:\Users\anayeli\Documents\VisualBasic2017\game\game\obj\Debug\game.pdb
